@@ -1,8 +1,4 @@
-// Info https://containers.dev/implementors/json_reference/
 {
-//	name of the dev container
-	"name": "idea-demo",
-	"image":  "openjdk:17"
-
+  "name": "universal",
+  "image":  "mcr.microsoft.com/vscode/devcontainers/universal:linux"
 }
-
